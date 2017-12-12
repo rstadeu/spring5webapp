@@ -20,6 +20,11 @@ public class Spring5webappApplicationTests {
 
 	@Test
 	public void oneMoreTest(){
+
+	}
+
+	@Test
+	public void test01(){
 		
 	}
 
