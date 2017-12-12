@@ -15,6 +15,11 @@ public class Spring5webappApplicationTests {
 
 	@Test
 	public void justAnotherTest(){
+
+	}
+
+	@Test
+	public void oneMoreTest(){
 		
 	}
 
